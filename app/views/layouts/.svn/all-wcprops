@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/yeah-app/!svn/ver/6/trunk/src/app/views/layouts
+END
+posts_layout.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/yeah-app/!svn/ver/6/trunk/src/app/views/layouts/posts_layout.ejs
+END
+application_layout.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/yeah-app/!svn/ver/6/trunk/src/app/views/layouts/application_layout.ejs
+END

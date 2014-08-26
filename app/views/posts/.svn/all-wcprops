@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/yeah-app/!svn/ver/6/trunk/src/app/views/posts
+END
+new.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/yeah-app/!svn/ver/6/trunk/src/app/views/posts/new.ejs
+END
+show.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/yeah-app/!svn/ver/6/trunk/src/app/views/posts/show.ejs
+END
+_form.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/yeah-app/!svn/ver/6/trunk/src/app/views/posts/_form.ejs
+END
+edit.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/yeah-app/!svn/ver/6/trunk/src/app/views/posts/edit.ejs
+END
+index.ejs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/yeah-app/!svn/ver/6/trunk/src/app/views/posts/index.ejs
+END
